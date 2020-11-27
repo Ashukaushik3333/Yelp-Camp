@@ -62,4 +62,4 @@ To see the page in action, go to my [Yelp Camp App](https://peaceful-reaches-734
 
 ### Deplyed at Heroku [Yelp Camp](https://peaceful-reaches-73403.herokuapp.com/)
 
-#### :star: Made with :heart: by Shreyans Jain from my Udemy course :mortar_board: :star:
+#### :star: Made with :heart: by Ashu Kaushik and Chetan Singh :mortar_board: :star:
